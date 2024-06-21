@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Framework both frontend and backend**
 
-- 👨‍💻 All of my projects are available at (/lucmanm)
+- 👨‍💻 All of my projects are available at [[[www.compu-]](https://github.com/)(/lucmanm)](https://github.com/lucmanm/)
 
-- 💬 Ask me about **Node.js, React, TypeScript,  Supabase, Prisma, ShadCN, React-hoook-form, Zod, Zustand,  i18n**
+- 💬 Ask me about **Node.js, React, TypeScript,  Supabase, Prisma ORM, ShadCN, React-hoook-form, Zod, Zustand,  i18n**
 
 - 📫 How to reach me **lucmanm@icloud.com**
 
