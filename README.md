@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Framework both frontend and backend**
 
-- 👨‍💻 All of my projects are available at [/lucmanm](/lucmanm)
+- 👨‍💻 All of my projects are available at (/lucmanm)
 
 - 💬 Ask me about **Node.js, React, TypeScript,  Supabase, Prisma, ShadCN, React-hoook-form, Zod, Zustand,  NextIntl**
 
