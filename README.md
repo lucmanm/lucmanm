@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lucmanm" target="blank"><img src="https://img.shields.io/twitter/follow/lucmanm?logo=twitter&style=for-the-badge" alt="lucmanm" /></a> </p>
 
-- 🔭 I’m currently working on [Computech Company](www.compu-tech.com.sa)
+- 🔭 I’m currently working on www.compu-teh.com.sa
 
 - 🌱 I’m currently learning **Framework both frontend and backend**
 
