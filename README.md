@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at (/lucmanm)
 
-- 💬 Ask me about **Node.js, React, TypeScript,  Supabase, Prisma, ShadCN, React-hoook-form, Zod, Zustand,  NextIntl**
+- 💬 Ask me about **Node.js, React, TypeScript,  Supabase, Prisma, ShadCN, React-hoook-form, Zod, Zustand,  i18n**
 
 - 📫 How to reach me **lucmanm@icloud.com**
 
