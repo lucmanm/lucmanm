@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahid Lucman</h1>
-<h3 align="center">A Passionate full stack developer from Philippines</h3>
+<h2 align="center">I Am Passionate for my work from Philippines</h2>
+<h3 align="center">Web Developer | Graphic Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucmanm&label=Profile%20views&color=0e75b6&style=flat" alt="lucmanm" /> </p>
 
