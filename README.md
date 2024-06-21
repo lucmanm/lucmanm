@@ -43,8 +43,8 @@
 | <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  | | | | |
 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucmanm&show_icons=true&locale=en&layout=compact" alt="lucmanm" /></p> <br/>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucmanm&show_icons=true&locale=en" alt="lucmanm" /></p><br/>
-
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucmanm&show_icons=true&locale=en&layout=compact" alt="lucmanm" /></p> 
+<br />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucmanm&show_icons=true&locale=en" alt="lucmanm" /></p>
+<br />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucmanm&" alt="lucmanm" /></p>
