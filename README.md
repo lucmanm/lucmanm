@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahid Lucman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate full stack developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucmanm&label=Profile%20views&color=0e75b6&style=flat" alt="lucmanm" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [/lucmanm](/lucmanm)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Node.js, React, TypeScript,  Supabase, Prisma, ShadCN, React-hoook-form, Zod, Zustand,  NextIntl**
 
 - 📫 How to reach me **lucmanm@icloud.com**
 
